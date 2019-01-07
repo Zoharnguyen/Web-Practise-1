@@ -1,0 +1,3 @@
+
+Link use spring-mvc-boot-thymeleaf-hibernate-tomcat:
+https://codersontrang.com/2018/02/08/su-dung-spring-boot-spring-mvc-thymeleaf-hibernate-tomcat-dang-nhung-de-xay-dung-ung-dung-web/
